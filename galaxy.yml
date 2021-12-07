@@ -1,6 +1,6 @@
 namespace: amazon
 name: aws
-version: 2.1.8
+version: 2.1.9
 readme: README.md
 authors:
   - Ansible (https://github.com/ansible)
